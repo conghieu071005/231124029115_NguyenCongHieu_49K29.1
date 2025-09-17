@@ -1,4 +1,5 @@
-Bài tập trực quan hóa dữ liệu - Bài tập Tuần 06 (D3.js)
+**Bài tập trực quan hóa dữ liệu - Bài tập Tuần 06 (D3.js)**
+
 Câu 1 - Doanh số bán hàng theo Mặt hàng
 <img width="1542" height="697" alt="image" src="https://github.com/user-attachments/assets/df7ea717-ac7e-4ff2-8422-9b9d1bc3b767" />
 Câu 2 - Doanh số bán hàng theo Nhóm hàng
